@@ -2,7 +2,7 @@
 
 #owner saim
 
-#support all plz
+#support all for more tools
 
 # Encryption : Py3 Marshal
 
